@@ -20,6 +20,9 @@
   <a href="https://github.com/priyanshugarg2525" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:4px;" alt="GitHub" />
   </a>
+  <a href="https://x.com/Priyans91292814" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" style="margin:4px;" alt="X" />
+  </a>
 </p>
 
 ---
