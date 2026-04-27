@@ -1,51 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&text=Build.%20Deploy.%20Scale.&height=120&section=header&fontSize=38&fontColor=00d4ff&animation=fadeIn&fontAlignY=65" alt="Build. Deploy. Scale." />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&text=Build.%20Deploy.%20Scale.&height=120&section=header&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=65" alt="Build. Deploy. Scale." />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Priyanshu+Garg+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Priyanshu+Garg+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+Linux+%7C+Cloud+Native" alt="Typing SVG" />
 </h1>
 
+---
+
+## 🏅 My Holopin Badges
+
+[![An image of @priyanshu2545's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu2545)](https://holopin.io/@priyanshu2545#badges)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:priyanshugarg2525@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:priyanshugarg2525@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" style="margin:4px;" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/priyanshugarg2525" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:4px;" alt="LinkedIn" />
   </a>
   <a href="https://github.com/priyanshugarg2525" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="tel:+917791994483">
-    <img src="https://img.shields.io/badge/+91_7791994483-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:4px;" alt="GitHub" />
   </a>
 </p>
-
-<br/>
 
 ---
 
 ## 🧠 About Me
 
 ```yaml
-name: Priyanshu Garg
-role: DevOps Engineer
-education:
-  degree: B.Tech in Computer Science
-  college: Geetanjali Institute of Technical Studies
-  cgpa: 8.02
-  duration: Oct 2022 – May 2026
-focus_areas:
+name      : Priyanshu Garg
+role      : DevOps Engineer
+college   : Geetanjali Institute of Technical Studies
+degree    : B.Tech – Computer Science (Oct 2022 – May 2026)
+cgpa      : 8.02
+focus:
   - Cloud Infrastructure (AWS)
   - Container Orchestration (Docker + Kubernetes)
   - CI/CD Pipeline Automation
-  - Infrastructure as Code
   - Monitoring & Observability
-currently_learning:
-  - MLOps & AIOps
+currently_exploring:
   - System Design at Scale
   - Open Source Contributions
-superpower: "Turning 2-hour deployments into 10-minute rollouts ⚡"
+  - Scalable Architectures
+fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 ```
 
 ---
@@ -124,31 +126,31 @@ superpower: "Turning 2-hour deployments into 10-minute rollouts ⚡"
 <td width="50%" valign="top">
 
 ### 🔵 Cloud-Native CI/CD Pipeline
-**Deployment time: 2hrs → 10 mins ⚡**
+**Deployment time: 2 hrs → 10 mins ⚡**
 
 `AWS EC2` `Docker` `Kubernetes` `Jenkins` `Nginx` `Prometheus` `Grafana`
 
-- Built full CI/CD with Jenkins & GitHub Webhooks
+- Built CI/CD with Jenkins & GitHub Webhooks
 - Zero-downtime rolling updates on Kubernetes
 - Nginx reverse proxy with pod-level load balancing
-- Real-time monitoring via Prometheus + Grafana dashboards
+- Real-time CPU, memory & latency via Prometheus + Grafana
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/priyanshugarg2525)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshugarg2525)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟢 SUSTAINA – Resource Management System
-**Live | Full-Stack + Real-time**
+**Live | Full-Stack + Real-time Dashboard**
 
 `React.js` `Tailwind CSS` `Supabase` `PostgreSQL` `REST APIs`
 
 - Track water & electricity usage with live dashboard
 - Secure auth with Row Level Security (RLS)
 - Interactive data visualization & usage insights
-- Scalable real-time data aggregation backend
+- Scalable real-time backend with data aggregation
 
-[![Live](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel)](https://github.com/priyanshugarg2525)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://github.com/priyanshugarg2525)
 
 </td>
 </tr>
@@ -168,11 +170,11 @@ superpower: "Turning 2-hour deployments into 10-minute rollouts ⚡"
 <td width="50%" valign="top">
 
 ### 🛰️ GIS Pipeline Automation
-**India Space Lab Internship | Feb–Mar 2026**
+**India Space Lab | Feb – Mar 2026**
 
 `Linux` `PostgreSQL (PostGIS)` `Git` `Shell Scripting`
 
-- Automated geospatial data pipelines → 40% less manual effort
+- Automated geospatial pipelines → 40% less manual effort
 - Version-controlled pipeline scripts using Git
 - Optimized PostGIS spatial queries for production
 
@@ -184,19 +186,19 @@ superpower: "Turning 2-hour deployments into 10-minute rollouts ⚡"
 
 ## 🏅 Achievements & Certifications
 
-```
-🏆  Winner        — Smart India Hackathon 2024 (SAMS Project)
-🥇  1st Place     — Hack-Avishkar by Google Developer Student Clubs
-🌍  Global Top 10K — Hacktoberfest 2025 Super Contributor
-☁️  Certified     — AWS Cloud Quest: Cloud Practitioner (Apr 2026)
-☁️  Certified     — AWS: EC2, VPC, RDS, DynamoDB
-🎓  Certified     — Full Stack Web Development (MERN) – Grras Solutions
-🤝  Core Member   — GDG Udaipur | Organized Google DevFest 2024–25 (300+ attendees)
-```
+| Badge | Achievement |
+|:---:|---|
+| 🥇 | **Winner** – Smart India Hackathon 2024 |
+| 🥇 | **1st Place** – Hack-Avishkar by Google Developer Student Clubs |
+| 🌍 | **Global Top 10K** – Hacktoberfest 2025 Super Contributor |
+| ☁️ | **AWS Cloud Quest: Cloud Practitioner** (Apr 2026) |
+| ☁️ | **AWS Certified** – EC2, VPC, RDS, DynamoDB |
+| 🎓 | **Full Stack Web Development (MERN)** – Grras Solutions |
+| 🤝 | **Core Member** – GDG Udaipur | Google DevFest 2024–25 (300+ attendees) |
 
 ---
 
-## 💡 Current Focus
+## 💡 What I'm Up To
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 
@@ -213,7 +215,7 @@ mindmap
       CI/CD Pipelines
       Docker & Kubernetes
       Infrastructure as Code
-      Cloud Deployment AWS
+      Cloud AWS
       Monitoring & Alerting
     Backend Engineering
       Node.js REST APIs
@@ -221,17 +223,18 @@ mindmap
       JWT Auth & Security
     Exploring Next
       System Design
-      MLOps & AIOps
       Open Source
       Scalable Architectures
 ```
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
 
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshugarg2525&theme=tokyonight" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshugarg2525&theme=tokyonight" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=priyanshugarg2525&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshugarg2525&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshugarg2525&hide=HTML,css,scss&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
@@ -242,13 +245,16 @@ mindmap
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together
+### 🤝 Let's Connect & Build Something Great
 
-*"Infrastructure doesn't fail. It just finds creative ways to teach you."*
+*"Infrastructure doesn't fail — it just finds creative ways to teach you."* 😄
 
 <br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=priyanshugarg2525&label=Profile+Views&color=00d4ff&style=flat-square)
+
+![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-0f0c29?style=flat-square)
+![Static Badge](https://img.shields.io/badge/⭐%20Star%20Repos%20If%20You%20Find%20Them%20Helpful!-302b63?style=flat-square)
 
 </div>
 
