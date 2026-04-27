@@ -6,13 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Priyanshu+Garg+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+Linux+%7C+Cloud+Native" alt="Typing SVG" />
 </h1>
 
----
 
-## 🏅 My Holopin Badges
-
-[![An image of @priyanshu2545's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu2545)](https://holopin.io/@priyanshu2545#badges)
-
----
 
 ## 🌐 Connect With Me
 
