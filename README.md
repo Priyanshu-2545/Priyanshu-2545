@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Priyanshu+Garg+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+Linux+%7C+Cloud+Native" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Priyanshu+Garg+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Pipelines+%7C+Linux+%7C+Cloud+Native" alt="Typing SVG" />
 </h1>
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -17,11 +17,26 @@
   <a href="https://linkedin.com/in/priyanshugarg2525" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:4px;" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/priyanshugarg2525" target="_blank">
+  <a href="https://github.com/Priyanshu-2545" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:4px;" alt="GitHub" />
   </a>
   <a href="https://x.com/Priyans91292814" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="42" style="margin:4px;" alt="X" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" style="margin:4px;" alt="Twitter/X" />
+  </a>
+  <a href="https://developer-priyanshu-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" height="42" style="margin:4px;" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/gargp6089/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/gargpeluc?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+  </a>
+  <a href="https://developer-priyanshu-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -132,7 +147,7 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 - Nginx reverse proxy with pod-level load balancing
 - Real-time CPU, memory & latency via Prometheus + Grafana
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/priyanshugarg2525)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu-2545)
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +162,7 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 - Interactive data visualization & usage insights
 - Scalable real-time backend with data aggregation
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://github.com/priyanshugarg2525)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://github.com/Priyanshu-2545)
 
 </td>
 </tr>
@@ -191,7 +206,7 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 | ☁️ | **AWS Cloud Quest: Cloud Practitioner** (Apr 2026) |
 | ☁️ | **AWS Certified** – EC2, VPC, RDS, DynamoDB |
 | 🎓 | **Full Stack Web Development (MERN)** – Grras Solutions |
-| 🤝 | **Core Member** – GDG Udaipur | Google DevFest 2024–25 (300+ attendees) |
+| 🤝 | **Core Member** – GDG Udaipur \| Google DevFest 2024–25 (300+ attendees) |
 
 ---
 
@@ -230,11 +245,11 @@ mindmap
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshugarg2525&theme=tokyonight" />
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshugarg2525&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=priyanshugarg2525&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshugarg2525&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshugarg2525&hide=HTML,css,scss&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-2545&theme=tokyonight" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-2545&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-2545&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-2545&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-2545&hide=HTML,css,scss&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -248,7 +263,7 @@ mindmap
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=priyanshugarg2525&label=Profile+Views&color=00d4ff&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Priyanshu-2545&label=Profile+Views&color=00d4ff&style=flat-square)
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20For%20Visiting!-0f0c29?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/⭐%20Star%20Repos%20If%20You%20Find%20Them%20Helpful!-302b63?style=flat-square)
