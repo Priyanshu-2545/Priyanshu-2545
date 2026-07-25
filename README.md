@@ -49,7 +49,7 @@ name      : Priyanshu Garg
 role      : DevOps Engineer
 college   : Geetanjali Institute of Technical Studies
 degree    : B.Tech – Computer Science (Oct 2022 – May 2026)
-cgpa      : 8.02
+cgpa      : 8.28
 focus:
   - Cloud Infrastructure (AWS)
   - Container Orchestration (Docker + Kubernetes)
