@@ -35,7 +35,7 @@
   <a href="https://www.geeksforgeeks.org/profile/gargpeluc?tab=activity" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
   </a>
-  <a href="https://developer-priyanshu-portfolio.vercel.app/" target="_blank">
+  <a href="https://priyanshugarg.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
