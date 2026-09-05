@@ -14,7 +14,7 @@
   <a href="mailto:priyanshugarg2525@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="42" style="margin:4px;" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/priyanshugarg2525" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-garg25/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:4px;" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Priyanshu-2545" target="_blank">
@@ -23,7 +23,7 @@
   <a href="https://x.com/Priyans91292814" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="42" style="margin:4px;" alt="Twitter/X" />
   </a>
-  <a href="https://developer-priyanshu-portfolio.vercel.app/" target="_blank">
+  <a href="https://priyanshugarg.tech/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" height="42" style="margin:4px;" alt="Portfolio" />
   </a>
 </p>
