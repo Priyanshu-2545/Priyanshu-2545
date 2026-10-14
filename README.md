@@ -68,7 +68,7 @@ focus:
   - DevSecOps (Trivy, least-privilege IAM)
   - Monitoring & Observability
 currently_exploring:
-  - Go (for cloud-native & CNCF tooling)
+  - Python (for automation & scripting)
   - System Design at Scale
   - Open Source Contributions
   - Scalable Architectures
@@ -166,7 +166,7 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go_(Learning)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Basics)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -236,14 +236,12 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
 `Next.js 14` `TypeScript` `Prisma` `PostgreSQL` `NextAuth.js` `Docker` `Terraform` `k3s` `Traefik` `GitHub Actions` `Trivy` `AWS`
 
 - Memorial platform covering **190+ soldiers, 109+ operations, 174+ regiments**
-- Auto-populates records via **Wikipedia & Wikidata APIs**
 - Role-based admin dashboard (NextAuth.js) for moderation
 - **Terraform**-provisioned AWS (EC2, S3, IAM) with least-privilege roles & budget alerts
 - **4-stage GitHub Actions pipeline** (lint → audit → scan → deploy) → **70% faster deploys**
-- Multi-stage Dockerfile with **BuildKit secret-mounts**
 - **k3s** zero-downtime rolling updates, health probes, **Traefik + Let's Encrypt TLS**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://priyanshugarg.tech/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://smarsetu.app/)
 [![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Priyanshu-2545)
 
 </td>
@@ -294,13 +292,10 @@ fun_fact  : "I turned a 2-hour deployment into 10 minutes. ⚡"
   'tertiaryColor':'#0f0c29'
 }}}%%
 flowchart LR
-    A[👨‍💻 Git Push] --> B[🧹 Lint]
-    B --> C[📦 Audit]
-    C --> D[🛡️ Trivy Scan]
-    D --> E[🐳 Docker Build]
-    E --> F[☸️ k3s Rolling Deploy]
-    F --> G[🌐 Traefik + TLS]
-    G --> H[📊 Prometheus + Grafana]
+    A[👨‍💻 Push Code to GitHub] --> B[🔨 Build]
+    B --> C[🧪 Test]
+    C --> D[🚀 Deploy on Linux Server]
+    D --> E[📊 Monitor]
 ```
 
 ---
@@ -344,7 +339,7 @@ mindmap
       Database Optimization
       JWT Auth & Security
     Exploring Next
-      Go for Cloud Native
+      Python for Automation
       System Design
       Open Source
       Scalable Architectures
@@ -366,7 +361,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-2545&bg_color=0f0c29&color=00d4ff&line=302b63&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+<img src="https://ghchart.rshah.org/00d4ff/Priyanshu-2545" width="90%" alt="Contribution Graph" />
 
 </div>
 
